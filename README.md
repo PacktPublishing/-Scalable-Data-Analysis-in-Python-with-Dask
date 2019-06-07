@@ -1,5 +1,5 @@
 # Scalable Data Analysis in Python with Dask [Video]
-This is the code repository for [Scalable Data Analysis in Python with Dask [Video]]( https://www.packtpub.com/web-development/scalable-data-analysis-python-dask-video?utm_source=github&utm_medium=repository&utm_campaign= 9781789808926), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Scalable Data Analysis in Python with Dask [Video]]( https://www.packtpub.com/web-development/scalable-data-analysis-python-dask-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808926), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Data analysts, Machine Learning professionals, and data scientists often use tools such as Pandas, Scikit-Learn, and NumPy for data analysis on their personal computer. However, when they want to apply their analyses to larger datasets, these tools fail to scale beyond a single machine, and so the analyst is forced to rewrite their computation.
 If you work on big data and you’re using Pandas, you know you can end up waiting up to a whole minute for a simple average of a series. And that’s just for a couple of million rows!
@@ -36,7 +36,8 @@ This course has the following software requirements:<br/>
 <LI> Any web browser for running Jupyter notebook
 <LI> Basic understanding of programming concepts like loops, conditional statements, etc.
 <LI> Familiar with Python Syntax.
-</LI>
+</LI> 
+  
 ## Related Products
-* [Exploratory Data Analysis with Pandas and Python 3.x [Video]]( https://www.packtpub.com/application-development/exploratory-data-analysis-pandas-and-python-3x-video?utm_source=github&utm_medium=repository&utm_campaign=9781789959116)
+* [Exploratory Data Analysis with Pandas and Python 3.x [Video]](https://www.packtpub.com/application-development/exploratory-data-analysis-pandas-and-python-3x-video?utm_source=github&utm_medium=repository&utm_campaign=9781789959116)
 
